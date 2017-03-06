@@ -1,0 +1,17 @@
+{
+  "name": "photobox",
+  "version": "1.0.0",
+  "description": "cucumber api test for photobox",
+  "main": "",
+  "scripts": {
+    "test": "cucumberjs --require lib"
+  },
+  "author": "raja sekhar",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "cucumber": "^1.0.0",
+    "lodash": "^4.13.1",
+    "request-promise": "^3.0.0"
+  }
+}
